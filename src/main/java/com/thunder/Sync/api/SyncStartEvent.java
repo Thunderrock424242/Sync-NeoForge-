@@ -1,11 +1,9 @@
 package com.thunder.Sync.api;
 
-import net.minecraft.entity.player.EntityPlayer;
-import net.minecraft.nbt.NBTTagCompound;
-import net.minecraft.util.math.BlockPos;
-import net.minecraftforge.event.entity.player.PlayerEvent;
 
-public class SyncStartEvent extends PlayerEvent 
+import net.neoforged.neoforge.event.entity.player.PlayerEvent;
+
+public class SyncStartEvent extends PlayerEvent
 {
 
     /**

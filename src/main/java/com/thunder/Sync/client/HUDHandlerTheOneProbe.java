@@ -6,11 +6,6 @@ import me.ichun.mods.sync.common.Sync;
 import me.ichun.mods.sync.common.tileentity.TileEntityShellConstructor;
 import me.ichun.mods.sync.common.tileentity.TileEntityShellStorage;
 import me.ichun.mods.sync.common.tileentity.TileEntityTreadmill;
-import net.minecraft.block.state.IBlockState;
-import net.minecraft.entity.player.EntityPlayer;
-import net.minecraft.tileentity.TileEntity;
-import net.minecraft.util.text.translation.I18n;
-import net.minecraft.world.World;
 
 import javax.annotation.Nullable;
 import java.text.DecimalFormat;
